@@ -1,0 +1,7 @@
+
+instagram a oto giriş , takipçileri arama ve takipçilerini listeleyip klasöre kaydetme bot 
+kendiniz geliştirebilirsiniz ...
+
+
+selenium u ve geckodriver unutmayınız.
+py dosyasında instagram  bilgilerinizi yazmayı unutmayınız.
